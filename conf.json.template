@@ -1,0 +1,8 @@
+{
+  "profile": "XXXX",
+  "repository_name": "lambda-container-yolov5-XXXX",
+  "tag": ":latest",
+  "domain": "XXXX.dkr.ecr.us-east-1.amazonaws.com",
+  "function_name": "lambda-container-yolov5-function-XXXX",
+  "role_arn": "arn:aws:iam::XXXX:role/service-role/lambda-container-yolov5-role-XXXX"
+}
